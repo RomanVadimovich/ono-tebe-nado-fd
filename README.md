@@ -1,1 +1,1 @@
-https://romanvadimovich.github.io/ono-tebe-nado-fd/
+https://github.com/RomanVadimovich/ono-tebe-nado-fd
