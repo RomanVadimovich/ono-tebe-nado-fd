@@ -52,10 +52,6 @@
     margin-left: 157px;
 }
 
-.address__link_underline-none {
-    text-decoration: none;
-}
-
 
 .cover {
     position: relative;
@@ -143,6 +139,7 @@
 
 .lots__card-list {
     display: flex;
+    flex-wrap: wrap;
     gap: 25px;
     padding: 27px 24px 30px;
 }
@@ -264,7 +261,7 @@
     font-size: 20px;
     line-height: 1.2;
     color: #000;
-    margin-top: 7px;
+    margin-top: 3px;
 }
 
 .footer {
@@ -299,6 +296,7 @@
 
 .footer__social-list {
     display: flex;
+    justify-self: end;
     gap: 48px;
 }
 
