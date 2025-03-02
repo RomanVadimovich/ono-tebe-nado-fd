@@ -65,7 +65,7 @@
 .overlay {
     position: absolute;
     inset: 0;
-    background: rgba(0, 0, 0, 0.4);
+    background: rgba(0, 0, 0, 0.6);
 }
 
 .cover__title {
@@ -303,8 +303,6 @@
 .footer__social-list-item {
     list-style-type: none;
 }
-
-.footer__social-link {}
 
 .footer__social-icon {
     width: 48px;
